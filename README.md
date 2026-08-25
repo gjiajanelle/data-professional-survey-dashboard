@@ -63,13 +63,13 @@ Below are the major insights that emerged from the analysis:
 ## Recommendations
 
 Based on the survey findings, the following recommendations are proposed:
-+ **Skill Development & Curriculum Focus:** Educational programs, bootcamps, and upskilling initiatives should prioritize Python and core data engineering workflows, given their heavy dominance in industry preference and high-compensation bands.
-+ **Compensation Realignment:** Organizations looking to retain skilled data talent should review compensation packages, as salary satisfaction lags behind work/life balance sentiment across most role titles.
-+ **Bridging the Career Entry Gap:** Since many candidates find entering the field difficult, companies and industry groups can create structured junior pathways, internships, and mentorship programs to lower entry barriers for emerging professionals.
++ Educational programs, bootcamps, and upskilling initiatives should prioritize Python and core data engineering workflows, given their heavy dominance in industry preference and high-compensation bands.
++ Organizations looking to retain skilled data talent should review compensation packages, as salary satisfaction lags behind work/life balance sentiment across most role titles.
++ Since many candidates find entering the field difficult, companies and industry groups can create structured junior pathways, internships, and mentorship programs to lower entry barriers for emerging professionals.
 
 ## Limitations
 
 While the analysis provides clear industry insights, several limitations should be noted:
-+ **Self-Reported Data:** Survey responses are self-reported, which may introduce subjective bias in compensation figures and sentiment scoring.
-+ **Sample Distribution:** Regional representation is concentrated heavily in specific countries (such as the US), which may skew overall salary averages relative to global baseline markets.
-+ **Static Point-in-Time Scope:** The dataset represents a single survey snapshot, limiting the ability to track multi-year longitudinal career growth or shifting language popularity trends over time.
++ Survey responses are self-reported, which may introduce subjective bias in compensation figures and sentiment scoring.
++ Regional representation is concentrated heavily in specific countries (such as the US), which may skew overall salary averages relative to global baseline markets.
++ The dataset represents a single survey snapshot, limiting the ability to track multi-year longitudinal career growth or shifting language popularity trends over time.
