@@ -79,6 +79,3 @@ This project visualizes survey data collected from data professionals across var
 
 ### Option 2: Explore the Dataset
 * Open `data.xlsx` in Microsoft Excel, Google Sheets, or any spreadsheet tool to inspect the raw survey responses and data fields.
-
-### Option 2: Explore the Dataset
-* Open `data.xlsx` in Microsoft Excel, Google Sheets, or any spreadsheet tool to inspect the raw survey responses and data fields.
